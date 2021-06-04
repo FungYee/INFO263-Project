@@ -1,2 +1,2 @@
 # Redesign Web -Project
-INFO263 Projecy
+INFO263 Project
